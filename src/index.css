@@ -1,0 +1,17 @@
+:root {
+  max-width: 1440px;
+  margin: 0 auto;
+
+  font-family: 'Overpass', sans-serif;
+  color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  height: 100vh;
+  background-color: #141519;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

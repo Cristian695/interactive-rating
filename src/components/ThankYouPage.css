@@ -1,0 +1,30 @@
+.ThankYouWrapper {
+    width: 350px;
+    height: 350px;
+    border-radius: 30px;
+    padding: 20px;
+
+    background: radial-gradient(circle at top, rgba(35,42,52,255) 4%, rgba(23,30,40,255) 60%);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.phone {
+    height: 100px;
+    width: 150px;
+    margin-bottom: 30px;
+}
+
+span {
+    padding: 5px 10px;
+    
+    font-size: 15px;
+    font-weight: 400;
+    color: #fc7613;
+    
+    background-color: #262f38;
+    border-radius: 20px;
+}
